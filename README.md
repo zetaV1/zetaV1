@@ -1,7 +1,4 @@
-// 💎 Hello, I am zeta and welcome to my GitHub profile.
+// Hello and welcome to my GitHub ReadMe.
 
 
-// 💻 I am interested in C++, C# and Lua and am actively trying to learn those coding languages.
-
-
-// 🎆 Thanks for visiting my profile.
+// I'm interested in learning how to develop CS:GO cheats.
